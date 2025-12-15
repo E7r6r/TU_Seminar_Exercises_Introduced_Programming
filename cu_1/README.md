@@ -1,1 +1,2 @@
-# cu_VP
+# TU_Seminar_Exercises_Introduced_Programming
+
